@@ -1,0 +1,7 @@
+default:
+    extension: .json
+    output: themes
+
+# pshell:
+#     extension: .ps1
+#     output: themes
